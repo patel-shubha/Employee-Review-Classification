@@ -1,6 +1,4 @@
-# Hackhathon-2-TSW
-Text Analytics Hackathon:
-
+#Employee Review Classification:
 Problem Statement:
 • To Predict sentiment of an employee based on his reviews on the social media
 • An XYZ company wants to understand the employee's sentiment over the 
